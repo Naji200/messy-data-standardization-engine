@@ -1,0 +1,2 @@
+customer_id,full_name,email,phone,signup_date,reject_reason
+3,Bob,,2611223344,2026-01-16,invalid_email

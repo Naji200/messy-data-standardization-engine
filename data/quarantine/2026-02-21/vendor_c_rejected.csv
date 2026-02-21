@@ -1,0 +1,2 @@
+customer_id,first_name,last_name,email,phone,signup_date,full_name,reject_reason
+101,Leila,Benali,,2655667788,2026-01-15,Leila Benali,invalid_email

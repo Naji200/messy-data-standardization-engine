@@ -1,0 +1,4 @@
+id,name,email,phone,signup_date
+1,John Doe,john@email.com,+212 6 11 22 33 44,2026-01-15
+2,Jane Smith,jane@email.com,0611223344,2026-01-16
+3,Bob,,+212611223344,2026-01-16

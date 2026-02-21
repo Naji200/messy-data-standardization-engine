@@ -1,0 +1,8 @@
+customer_id: [id, customerId, customer_id]
+full_name: [name, fullName, full_name]
+email: [email, mail, email_address]
+phone: [phone, tel, phone_number]
+signup_date: [signup_date, created_at, signupDate]
+country: [country, nation]
+first_name: [first_name]
+last_name: [last_name]
