@@ -1,0 +1,18 @@
+required_columns:
+  - customer_id
+  - full_name
+  - email
+  - signup_date
+
+email_regex: "^[^@]+@[^@]+\\.[^@]+$"
+
+unique_keys:
+  - customer_id
+
+types:
+  customer_id: string
+  full_name: string
+  email: string
+  phone: string
+  country: string
+  signup_date: date
